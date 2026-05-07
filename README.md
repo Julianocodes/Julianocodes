@@ -47,4 +47,3 @@ Me chamo Juliano, tenho 31 anos e sou natural de Salgueiro PE. Atualmente estou 
 
 ---
 
-
