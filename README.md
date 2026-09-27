@@ -2,7 +2,42 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Juliano, tenho 31 anos e sou natural de Salgueiro PE. Atualmente estou estudando Desenvolvimento Web de forma autodidata, buscando evoluir todos os dias e aprender cada vez mais sobre as tecnologias da área. Tenho dedicação, facilidade para aprender e muita vontade de crescer profissionalmente na programação. Estou desenvolvendo conhecimentos em HTML, CSS, JavaScript e outras ferramentas do desenvolvimento front-end, sempre procurando colocar em prática tudo o que aprendo através de projetos e estudos constantes. Sou uma pessoa esforçada, comprometida e determinada a construir uma carreira sólida na área da tecnologia.
+# Olá! 👋 Eu sou Juliano Roso
+
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **FASUL Educacional**.
+
+💻 Sou **autodidata** e venho construindo minha jornada na programação através de estudos, cursos, desafios e projetos práticos.
+
+🚀 Atualmente estou focado em **Desenvolvimento Web**, estudando principalmente:
+
+* HTML
+* CSS
+* JavaScript
+* React
+* TypeScript
+* Git e GitHub
+
+📚 Além da faculdade, continuo estudando por conta própria e colocando o conhecimento em prática através de pequenos projetos e desafios.
+
+🎯 **Objetivo:** evoluir constantemente como desenvolvedor, adquirir experiência profissional e conquistar minha primeira oportunidade na área de tecnologia.
+
+---
+
+### 🛠️ Tecnologias que estou estudando
+
+**Front-end:** HTML | CSS | JavaScript | React | TypeScript
+
+**Ferramentas:** Git | GitHub | VS Code
+
+---
+
+### 📌 Atualmente
+
+🎓 Cursando Análise e Desenvolvimento de Sistemas
+📚 Estudando de forma autodidata
+💻 Desenvolvendo projetos para praticar programação
+🚀 Construindo minha carreira na área de tecnologia
+
 
 ---
 
