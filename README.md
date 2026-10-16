@@ -23,7 +23,7 @@
 
 ### 🛠️ Tecnologias que estou estudando
 
-**Front-end:** HTML | CSS | JavaScript | React | TypeScript
+**Front-end:** HTML | CSS | JavaScript
 
 **Ferramentas:** Git | GitHub | VS Code
 
