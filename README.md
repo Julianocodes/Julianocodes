@@ -13,8 +13,6 @@
 * HTML
 * CSS
 * JavaScript
-* React
-* TypeScript
 * Git e GitHub
 
 📚 Além da faculdade, continuo estudando por conta própria e colocando o conhecimento em prática através de pequenos projetos e desafios.
