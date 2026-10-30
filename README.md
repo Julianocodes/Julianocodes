@@ -10,6 +10,7 @@ Estou construindo minha carreira em desenvolvimento web por meio dos estudos e d
 - JavaScript
 - React e Next.js
 - TypeScript
+- Tailwind CSS
 - Consumo de APIs
 - Git e GitHub
 - Bootstrap
