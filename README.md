@@ -1,82 +1,41 @@
-# 👩🏻‍💻 Juliano Roso
+# 👋 Olá, eu sou Juliano Roso
 
-**`Desenvolvedor Front-End`**
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na FASUL Educacional
 
-# Olá! 👋 Eu sou Juliano Roso
+Estou construindo minha carreira em desenvolvimento web por meio dos estudos e de projetos práticos. Gosto de aprender fazendo, entender como as coisas funcionam e transformar cada desafio em uma oportunidade para evoluir.
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **FASUL Educacional**.
+## 🧰 Tecnologias e ferramentas
 
-💻 Sou **autodidata** e venho construindo minha jornada na programação através de estudos, cursos, desafios e projetos práticos.
+- HTML e CSS
+- JavaScript
+- Consumo de APIs
+- Git e GitHub
+- Bootstrap
 
-🚀 Atualmente estou focado em **Desenvolvimento Web**, estudando principalmente:
+## 🚀 Projetos em destaque
 
-* HTML
-* CSS
-* JavaScript
-* Git e GitHub
+### [Consulta de Clima — Open Meteo](https://github.com/Julianocodes/open-meteo)
+Aplicação que consulta uma cidade e apresenta temperatura e velocidade do vento usando as APIs Open-Meteo.
 
-📚 Além da faculdade, continuo estudando por conta própria e colocando o conhecimento em prática através de pequenos projetos e desafios.
+[Ver demonstração](https://open-meteo-nine.vercel.app/)
 
-🎯 **Objetivo:** evoluir constantemente como desenvolvedor, adquirir experiência profissional e conquistar minha primeira oportunidade na área de tecnologia.
+### [Livro de Pokémons](https://github.com/Julianocodes/livro-de-pokemons)
+Buscador de Pokémon feito com HTML, CSS e JavaScript, integrado à PokéAPI.
 
----
+[Ver demonstração](https://livro-de-pokemons.vercel.app/)
 
-### 🛠️ Tecnologias que estou estudando
+### [Meu portfólio](https://github.com/Julianocodes/meu-potfolio)
+Um espaço para apresentar minha trajetória e projetos.
 
-**Front-end:** HTML | CSS | JavaScript
+[Ver portfólio](https://meu-potfolio-eight.vercel.app/)
 
-**Ferramentas:** Git | GitHub | VS Code
+## 📚 Atualmente
 
----
+- Cursando Análise e Desenvolvimento de Sistemas
+- Estudando desenvolvimento front-end e praticando com projetos próprios
+- Buscando minha primeira oportunidade na área de tecnologia
 
-### 📌 Atualmente
+## 📫 Contato
 
-🎓 Cursando Análise e Desenvolvimento de Sistemas
-📚 Estudando de forma autodidata
-💻 Desenvolvendo projetos para praticar programação
-🚀 Construindo minha carreira na área de tecnologia
-
-
----
-
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-
-
-<br/>
-<br/>
-
----
-
+- [LinkedIn](https://www.linkedin.com/in/juliano-roso/)
+- [Portfólio](https://meu-potfolio-eight.vercel.app/)
