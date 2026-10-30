@@ -8,11 +8,19 @@ Estou construindo minha carreira em desenvolvimento web por meio dos estudos e d
 
 - HTML e CSS
 - JavaScript
+- React e Next.js
+- TypeScript
 - Consumo de APIs
 - Git e GitHub
 - Bootstrap
 
 ## 🚀 Projetos em destaque
+
+### [Forno & Massa — cardápio demonstrativo](https://github.com/Julianocodes/forno-massa)
+Cardápio fictício com busca por sabores, seleção de tamanho e quantidade, carrinho e cálculos ilustrativos. Projeto de estudo; não recebe pedidos nem pagamentos.
+
+### [Estadias — protótipo de acomodações](https://github.com/Julianocodes/estadias-prototipo)
+Protótipo com busca de acomodações demonstrativas e páginas de detalhes, feito com Next.js, React e TypeScript. Não tem reservas reais nem vínculo com Airbnb.
 
 ### [Consulta de Clima — Open Meteo](https://github.com/Julianocodes/open-meteo)
 Aplicação que consulta uma cidade e apresenta temperatura e velocidade do vento usando as APIs Open-Meteo.
@@ -37,5 +45,5 @@ Um espaço para apresentar minha trajetória e projetos.
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/juliano-roso/)
+- [LinkedIn](https://www.linkedin.com/in/juliano-roso)
 - [Portfólio](https://meu-potfolio-eight.vercel.app/)
